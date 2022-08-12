@@ -4,7 +4,7 @@ La aplicación cuenta con las operaciones básicas como suma, resta, multiplicac
 
 ## APK :iphone:
 
-La apk generada se encuentra en la carpeta [Apk](https://github.com/JoseLuisColcha/Currency-Converter-App/tree/master/Apk) de este repositorio.
+La apk generada se encuentra en la carpeta [Apk](https://github.com/JoseLuisColcha/Calculator_Android_Xamarin/tree/master/Apk) de este repositorio.
 
 ## Funcionamiento 📌 
 
